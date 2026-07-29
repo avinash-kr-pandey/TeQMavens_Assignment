@@ -7,8 +7,8 @@ light/dark themes, and polished motion.
 
 ## Submission
 
-- **Repository:** Add GitHub repository URL
-- **Live demo:** Add deployed application URL
+- **Repository:** https://github.com/avinash-kr-pandey/TeQMavens_Assignment
+- **Live demo:** https://te-q-mavens-assignment-advx.vercel.app/
 - **Figma/design source:** Add provided Figma URL
 - **Demo video/screenshots:** Add video or screenshot URL
 
